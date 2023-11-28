@@ -35,7 +35,7 @@ public class JogoDePalavras {
         int tentativas = 0;
         int espaco = 0;
 
-        // Descomente a linha abaixo para ver a palavra secreta no início do jogo
+        //Linha que mostra a palavra sorteada, comentar caso queira esconder
         System.out.println("Palavra secreta: " + palavraSecreta);
 
         System.out.println("Bem-vindo ao jogo! Tente adivinhar a palavra.");
